@@ -1,4 +1,15 @@
 # Horiseon-Re-work
-This project consisted of making a functional website more accessible for people using assistive technologies. 
-I used what I've learned so far in class to add alt text to images to facilitate the use of assistive technologies. 
-I was able to clean up some redundant parts of code and clean up the look of the index to make it easier for others who may want to work on the page.
+## Purpose
+The purpose behind this project was to rework the code of a given website to make it more streamlined and easier to code when looking at the index and css files.
+We were given a set of rules to make the website more accessible and to streamline the code to make it easier to read and work with.
+
+## Built with
+ *HTML
+ *CSS
+
+ ## Website
+https://github.com/Cbannerman21/Horiseon-Re-work.git
+
+ ## Screenshots
+![Screenshot1](/assets/images/screencap%201.PNG)
+![Screenshot2](/assets/images/screen%20capture%202.PNG)
